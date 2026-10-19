@@ -1,5 +1,5 @@
 """
-THE PIPELINE: run every stage, in order, exactly as CI does.
+THE PIPELINE: run every stage, in order, exactly as CI does
 
     python run_pipeline.py                        # uses model_config.json (your model)
     python run_pipeline.py --config configs/v1.json
